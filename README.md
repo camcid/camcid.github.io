@@ -1,2 +1,2 @@
 # camcid.github.io
-Official lab website 
+Welcome to Cambridge Collective Intelligence and Design Group
