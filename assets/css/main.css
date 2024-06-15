@@ -1,4 +1,4 @@
-@import url(fontawesome-all.min.css);
+/*@import url(fontawesome-all.min.css); */
 /*@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,400italic,600italic|Roboto+Slab:400,700"); */
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
 /*
@@ -204,7 +204,7 @@ code {
 
 pre {
   -webkit-overflow-scrolling: touch;
-  font-family: "Courier New", monospace;
+  font-family: "Roboto Mono", monospace;
   font-size: 0.9em;
   margin: 0 0 2em 0; }
   pre code {
@@ -991,7 +991,7 @@ section.special, article.special {
   text-align: center; }
 
 header p {
-  font-family: "Roboto Slab", serif;
+  font-family: "Roboto Mono", monospace;
   font-size: 1em;
   font-weight: 400;
   letter-spacing: 0.075em;
@@ -1893,7 +1893,7 @@ button,
     text-rendering: auto;
     line-height: 1;
     text-transform: none !important;
-    font-family: 'Font Awesome 5 Fre';
+    font-family: 'Roboto Mono';
     font-weight: 900; }
   #search form:before {
     -moz-transform: scaleX(-1);
@@ -1985,7 +1985,7 @@ button,
       text-rendering: auto;
       line-height: 1;
       text-transform: none !important;
-      font-family: 'Font Awesome 5 Free';
+      font-family: 'Roboto Mono';
       font-weight: 900; }
     #sidebar .toggle:before {
       content: '\f0c9';
