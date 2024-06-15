@@ -1893,7 +1893,7 @@ button,
     text-rendering: auto;
     line-height: 1;
     text-transform: none !important;
-    font-family: 'Roboto Mono';
+    font-family: 'Font Awesome 5 Free';
     font-weight: 900; }
   #search form:before {
     -moz-transform: scaleX(-1);
@@ -1985,7 +1985,7 @@ button,
       text-rendering: auto;
       line-height: 1;
       text-transform: none !important;
-      font-family: 'Roboto Mono';
+      font-family: 'Font Awesome 5 Free';;
       font-weight: 900; }
     #sidebar .toggle:before {
       content: '\f0c9';
