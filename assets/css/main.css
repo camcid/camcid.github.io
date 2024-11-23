@@ -1121,7 +1121,7 @@ input[type="radio"] {
       text-rendering: auto;
       line-height: 1;
       text-transform: none !important;
-      font-family: 'Font Awesome 5 Free';
+      font-family: "Roboto Mono", monospace;
       font-weight: 900; }
     input[type="checkbox"] + label:before,
     input[type="radio"] + label:before {
@@ -1200,7 +1200,7 @@ input[type="radio"] + label:before {
     text-rendering: auto;
     line-height: 1;
     text-transform: none !important;
-    font-family: 'Font Awesome 5 Free';
+    font-family: "Roboto Mono", monospace;
     font-weight: 400; }
   .icon > .label {
     display: none; }
@@ -1209,7 +1209,7 @@ input[type="radio"] + label:before {
   .icon.solid:before {
     font-weight: 900; }
   .icon.brands:before {
-    font-family: 'Font Awesome 5 Brands'; }
+    font-family: "Roboto Mono", monospace; }
 
 /* Image */
 .image {
@@ -1374,7 +1374,7 @@ ul.contact {
       text-rendering: auto;
       line-height: 1;
       text-transform: none !important;
-      font-family: 'Font Awesome 5 Free';
+      font-family: "Roboto Mono", monospace;
       font-weight: 400; }
     ul.contact li:before {
       color: #f56a6a;
@@ -1893,7 +1893,7 @@ button,
     text-rendering: auto;
     line-height: 1;
     text-transform: none !important;
-    font-family: 'Font Awesome 5 Free';
+    font-family: "Roboto Mono", monospace;
     font-weight: 900; }
   #search form:before {
     -moz-transform: scaleX(-1);
@@ -1985,7 +1985,7 @@ button,
       text-rendering: auto;
       line-height: 1;
       text-transform: none !important;
-      font-family: 'Font Awesome 5 Free';;
+      font-family: "Roboto Mono", monospace;;
       font-weight: 900; }
     #sidebar .toggle:before {
       content: '\f0c9';
@@ -2200,7 +2200,7 @@ button,
   -ms-user-select: none;
   user-select: none;
   color: #3d4449;
-  font-family: 'Font Awesome 5 Free';
+  font-family: "Roboto Mono", monospace;
   font-weight: 400;
   letter-spacing: 0.075em;
   list-style: none;
@@ -2233,7 +2233,7 @@ button,
         text-rendering: auto;
         line-height: 1;
         text-transform: none !important;
-        font-family: 'Font Awesome 5 Free';
+        font-family: "Roboto Mono", monospace;
         font-weight: 900; }
       #menu ul a.opener:before, #menu ul span.opener:before {
         -moz-transition: color 0.2s ease-in-out, -moz-transform 0.2s ease-in-out;
