@@ -2076,7 +2076,7 @@ button,
   display: -webkit-flex;
   display: -ms-flex;
   display: flex;
-  border-bottom: solid 5px #f56a6a;
+  border-bottom: solid 5px #674ea7;
   padding: 6em 0 1em 0;
   position: relative; }
   #header > * {
@@ -2199,7 +2199,7 @@ button,
   -webkit-user-select: none;
   -ms-user-select: none;
   user-select: none;
-  color: #351c75;
+  color: #000000;
   font-family: 'Font Awesome 5 Free';
   font-weight: 400;
   letter-spacing: 0.075em;
@@ -2245,7 +2245,7 @@ button,
         position: absolute;
         right: 0; }
       #menu ul a.opener:hover:before, #menu ul span.opener:hover:before {
-        color: #f56a6a; }
+        color: #674ea7; }
       #menu ul a.opener.active + ul, #menu ul span.opener.active + ul {
         display: block; }
       #menu ul a.opener.active:before, #menu ul span.opener.active:before {
